@@ -24,7 +24,7 @@ export default function Home() {
         </div>
         <div className="flex gap-5">
           <Button gradientDuoTone='purpleToBlue' className="w-32">Join Now</Button>
-          <Button outline gradientDuoTone="purpleToPink" className="w-32 ">Hot Now</Button>
+          <Button outline gradientDuoTone="purpleToPink" className="w-32 ">Test Us</Button>
         </div>
       </div>
 
